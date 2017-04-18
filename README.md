@@ -2,7 +2,7 @@ Migration que popula o banco de dados com os estados e cidades do Brasil com dad
 
 Para utilizá-la é necessário criar os seguintes models:
 
-##Rails 3##
+## Rails 3 ##
 
 `Estado.rb`
 ```
@@ -23,7 +23,7 @@ class Cidade < ActiveRecord::Base
 end
 ```
 
-##Rails 4##
+## Rails 4 ##
 
 `Estado.rb`
 ```
